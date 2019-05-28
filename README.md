@@ -1,6 +1,8 @@
 # Paris metro traffic
 Data cleaning, analysis and visualization of Paris metro traffic with Python, Pandas, Matplotlib, iPyLeaflet & kepler.gl.
 
+![Map produced with iPyLeaflet](screenshot_ipyleaflet_traffic.png)
+
 ## Source:
 
 Île-de-France Mobilités, formerly STIF, is the organisation authority that controls and coordinates the different transport companies operating in the Paris-area public transport network and Île-de-France region. 
