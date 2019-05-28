@@ -28,7 +28,6 @@ Below are the links to the aforementionned datasets:
 - [Hourly profiles *1st semester 2018*](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-1er-sem/information/)
 - [Hourly profiles *2nd semester 2018*](https://opendata.stif.info/explore/dataset/validations-sur-le-reseau-ferre-profils-horaires-par-jour-type-2e-sem/information/)
 - [Repository](https://opendata.stif.info/explore/dataset/referentiel-arret-tc-idf/information/)
-> This page also contains information about identification codes.
 - [Geographical coordinates](https://opendata.stif.info/explore/dataset/emplacement-des-gares-idf-data-generalisee/information/)
 
 ## Purpose:
