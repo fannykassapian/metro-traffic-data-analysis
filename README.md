@@ -1,6 +1,7 @@
 # Paris metro traffic
 Data cleaning, analysis and visualization of Paris metro traffic with Python, Pandas, Matplotlib, [iPyLeaflet](https://ipyleaflet.readthedocs.io/en/latest/index.html) & [kepler.gl](https://kepler.gl/).
 
+*Example: Hourly traffic visualized with kepler.gl*
 ![Visualization of hourly traffic with kepler.gl](kepler_viz.gif)
 
 ## Source:
@@ -37,6 +38,7 @@ Below are the links to the aforementionned datasets:
 - Clean & wrangle available data to visualize & analyze the traffic within the Paris metro network in 2018.
 - Use Matplotlib, [iPyLeaflet](https://ipyleaflet.readthedocs.io/en/latest/index.html) & [kepler.gl](https://kepler.gl/) to produce visualizations.
 
+*Example: Traffic visualized with iPyLeaflet*
 ![Traffic visualization with iPyLeaflet](screenshot_ipyleaflet_traffic.png)
 
 ## Notebooks:
