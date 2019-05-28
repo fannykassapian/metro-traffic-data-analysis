@@ -39,12 +39,12 @@ Below are the links to the aforementionned datasets:
 - Use Matplotlib, [iPyLeaflet](https://ipyleaflet.readthedocs.io/en/latest/index.html) & [kepler.gl](https://kepler.gl/) to produce visualizations.
 
 *Example: Traffic visualized with iPyLeaflet*
-![Traffic visualization with iPyLeaflet](screenshot_ipyleaflet_traffic.png)
+![Traffic visualization with iPyLeaflet](img/map1.png)
 
 ## Notebooks:
 
 This project consists of 4 separate notebooks:
-- Notebook 1/4: General introduction and initial data exploration
-- Notebook 2/4: Data cleaning (daily traffic and hourly profiles)
-- Notebook 3/4: Data cleaning (Repository and geographical coordinates)
-- Notebook 4/4: Analysis and visualization
+- [Notebook 1/4](https://github.com/fannykassapian/metro-traffic-data-analysis/blob/master/1_intro_exploration.ipynb): General introduction and initial data exploration
+- [Notebook 2/4](https://github.com/fannykassapian/metro-traffic-data-analysis/blob/master/2_cleaning_1.ipynb): Data cleaning (daily traffic and hourly profiles)
+- [Notebook 3/4](https://github.com/fannykassapian/metro-traffic-data-analysis/blob/master/3_cleaning_2.ipynb): Data cleaning (Repository and geographical coordinates)
+- [Notebook 4/4](https://github.com/fannykassapian/metro-traffic-data-analysis/blob/master/4_analysis_visualization.ipynb): Analysis and visualization
